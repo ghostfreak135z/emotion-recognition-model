@@ -13,7 +13,7 @@ Angry, Disgust, Fear, Happy, Sad, Surprise, Neutral.
 - ResNet-18 (pretrained)
 - Modified for small images
 - Weighted Cross-Entropy for class imbalance
-- 
+
 
 ## Training
 - Epochs: 20
