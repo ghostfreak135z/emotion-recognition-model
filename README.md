@@ -1,5 +1,3 @@
-# emotion-recognition-model
-
 # Facial Emotion Recognition – Vintage Nights
 
 ## Overview
