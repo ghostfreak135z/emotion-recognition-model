@@ -34,6 +34,7 @@ The model can be loaded using:
 model.load_state_dict(torch.load("emotion_resnet18.pth"))
 ```
 ## Inference
+Make sure to change the path of dataset folder.
 ```bash
 python predict_test.py
 
